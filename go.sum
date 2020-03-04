@@ -1,0 +1,8 @@
+github.com/gammazero/deque v0.0.0-20200124200322-7e84b94275b8 h1:9eg1l6iiw3aLaU3P8RRoosiYCRoWDg8HzPiy8xzWKgg=
+github.com/gammazero/deque v0.0.0-20200124200322-7e84b94275b8/go.mod h1:D90+MBHVc9Sk1lJAbEVgws0eYEurY4mv2TDso3Nxh3w=
+github.com/gammazero/workerpool v0.0.0-20200227232218-7cfac6a13c24 h1:LPaf5ctzQDmyj45rlV0FlaqaT0c3++mBU/Z51oAK9ro=
+github.com/gammazero/workerpool v0.0.0-20200227232218-7cfac6a13c24/go.mod h1:10xd3BRI8VbtU19sO3an+1dGRTbqDuHFxxjXIS1su5A=
+github.com/joho/godotenv v1.3.0 h1:Zjp+RcGpHhGlrMbJzXTrZZPrWj+1vfm90La1wgB6Bhc=
+github.com/joho/godotenv v1.3.0/go.mod h1:7hK45KPybAkOC6peb+G5yklZfMxEjkZhHbwpqxOKXbg=
+github.com/yterajima/go-sitemap v0.2.2 h1:dAHyYPKS2nzdYhpDMuYEJ6sUZO5PX6xViSROFAi4eBU=
+github.com/yterajima/go-sitemap v0.2.2/go.mod h1:PVTH3uB0Tk0FYtK2JEmqRU57uymq84f1dBhWuL1NQVA=
